@@ -1,0 +1,44 @@
+ task 1: Count total chocolate reviews
+
+Total chocolate reviews: 1795
+
+
+task 2: Find top companies by chocolate count
+
+ Top Companies by Chocolate Count:
+1. Soma - 47 chocolates
+2. Bonnat - 27 chocolates
+3. Fresco - 26 chocolates
+4. Pralus - 25 chocolates
+5. A. Morin - 23 chocolates
+6. Arete - 22 chocolates
+7. Domori - 22 chocolates
+8. Guittard - 22 chocolates
+9. Valrhona - 21 chocolates
+1. Soma - 47 chocolates
+2. Bonnat - 27 chocolates
+3. Fresco - 26 chocolates
+4. Pralus - 25 chocolates
+5. A. Morin - 23 chocolates
+6. Arete - 22 chocolates
+7. Domori - 22 chocolates
+8. Guittard - 22 chocolates
+9. Valrhona - 21 chocolates
+3. Fresco - 26 chocolates
+4. Pralus - 25 chocolates
+5. A. Morin - 23 chocolates
+6. Arete - 22 chocolates
+7. Domori - 22 chocolates
+8. Guittard - 22 chocolates
+9. Valrhona - 21 chocolates
+5. A. Morin - 23 chocolates
+6. Arete - 22 chocolates
+7. Domori - 22 chocolates
+8. Guittard - 22 chocolates
+9. Valrhona - 21 chocolates
+7. Domori - 22 chocolates
+8. Guittard - 22 chocolates
+9. Valrhona - 21 chocolates
+8. Guittard - 22 chocolates
+9. Valrhona - 21 chocolates
+10. Hotel Chocolat (Coppeneur) - 19 chocolates
